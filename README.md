@@ -1,8 +1,8 @@
-# Presentation Website (UI mastery series 3 of 6)
+# Presentation Website (UI mastery series 3 of 7)
 
 ## Description
 
-This project is the third in a six part series I've created to really master my UI development skills. For this project, I've built a beautiful website that mimics presentation slides with css animations.
+This project is the third in a seven part series I've created to really master my UI development skills. For this project, I've built a beautiful website that mimics presentation slides with css animations.
 
 ## Screenshot of Deployed Application
 
